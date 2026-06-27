@@ -7,12 +7,12 @@ Speech And Debate Enthusiast
 I'm an incoming freshman to high school with interests of speech, debate, coding, finance and business
 
 * 🌍  I'm based in Austin Texas
-* ✉️  You can contact me at [evanmeharo@gmail.com](mailto:evanmeharo@gmail.com)
 * 🚀  I'm currently coaching [Debate Coaching Classes for Beginners](https://calendly.com/evanmeharo/new-meeting) I've placed 4th in a Coolidge Speech and Debate tournament and I have qualified and participated in ASDA Nationals Debate also. I have won 1st prize in the Inter-Parish Talent Festival of summer 2025.
 * 🧠  I'm currently preparing and studying my upcoming high school courses
 * 👥  I'm looking to teach and coach Speech and Debate discussions and classes to support beginners, especially middle schoolers.
 * 💬  For the near and foreseeable future I am planning to learn more of coding, financing, and business
 * 🖥️  See my portfolio at [LinkedIn](https://www.linkedin.com/in/evan-meharo-66a236415/)
+* ✉️  You can contact me at [evanmeharo@gmail.com](mailto:evanmeharo@gmail.com)
 
 
 ### Socials
