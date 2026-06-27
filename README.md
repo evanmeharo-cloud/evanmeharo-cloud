@@ -9,9 +9,9 @@ I'm an incoming freshman to high school with interests of speech, debate, coding
 * 🌍  I'm based in Austin Texas
 * 🖥️  See my portfolio at [LinkedIn](https://www.linkedin.com/in/evan-meharo-66a236415/)
 * ✉️  You can contact me at [evanmeharo@gmail.com](mailto:evanmeharo@gmail.com)
-* 🚀  I'm currently working on [Debate Coaching Classes for Beginners](https://calendly.com/evanmeharo/new-meeting)
-* 🧠  I'm currently learning 9th grade courses to ace them once I actually start attending High School
-* 👥  I'm looking to collaborate on Speech and Debate discussions and classes
+* 🚀  I'm currently coaching [Debate Coaching Classes for Beginners](https://calendly.com/evanmeharo/new-meeting) I have placed 4th in a Coolidge Speech and Debate tournament and I have qualified and participated in ASDA Nationals Debate also. I have won 1st prize in the Inter-Parish Talent Festival of summer 2025.
+* 🧠  I'm currently preparing and studying my upcoming high school courses
+* 👥  I'm looking to teach and coach Speech and Debate discussions and classes to beginners
 * 💬  Ask me about I am planning to learn more of coding, financing, and business
 
 
