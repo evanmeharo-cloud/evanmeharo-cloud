@@ -1,36 +1,25 @@
-Evan Meharo
-===========================================================================================================================================
+# Evan Meharo
+### Speech & Debate Competitor | Aspiring Programmer & Entrepreneur
 
-Speech And Debate Enthusiast
-----------------------------
+Hi there! 👋 I am an incoming high school freshman based in Austin, Texas. I have a strong passion for public speaking, logical argumentation, and technology. I am currently focusing on growing my skills in competitive debate while preparing for rigorous high school coursework in computer science and business.
 
-I'm an incoming freshman to high school with interests of speech, debate, coding, finance and business
+## 🏆 Speech & Debate Achievements
+* **Coolidge Foundation Debate Tournament:** 4th Place (Qualified for ASDA Nationals)
+* **American Speech and Debate Association (ASDA) Nationals:** Qualifier & Participant
+* **Inter-Parish Talent Festival (Summer 2025):** 1st Place
 
-* 🌍  I'm based in Austin Texas
-* 🚀  I'm currently coaching [Debate Coaching Classes for Beginners](https://calendly.com/evanmeharo/new-meeting) I've placed 4th in a Coolidge Speech and Debate tournament and I have qualified and participated in ASDA Nationals Debate also. I have won 1st prize in the Inter-Parish Talent Festival of summer 2025.
-* 🧠  I'm currently preparing and studying my upcoming high school courses
-* 👥  I'm looking to teach and coach Speech and Debate discussions and classes to support beginners, especially middle schoolers.
-* 💬  For the near and foreseeable future I am planning to learn more of coding, financing, and business
-* 🖥️  See my portfolio at [LinkedIn](https://www.linkedin.com/in/evan-meharo-66a236415/)
-* ✉️  You can contact me at [evanmeharo@gmail.com](mailto:evanmeharo@gmail.com)
+## 🎤 Free Debate Coaching for Beginners
+I believe everyone deserves the chance to build confidence in public speaking. To give back to my community, I am looking to teach and support beginners. I offer **free 30-minute coaching sessions** for middle school students interested in speech and debate.
 
+👉 **[Book a Free Speech & Debate Coaching Session Here](YOUR_CALENDLY_LINK_HERE)**
 
-### Socials
+## 📫 Let's Connect
+Whether you want to discuss debate, schedule a coaching session, or collaborate on a project, feel free to reach out!
 
-<p align="left"> <a href="https://www.github.com/evanmeharo-cloud" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/evan-meharo-66a236415/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.youtube.com/@evanmeharo7728" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a></p>
-<a href="https://www.github.com/evanmeharo-cloud" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/evanmeharo-cloud?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-### Badges
+* ✉️ **Email:** evanmeharo@gmail.com
+* 💼 **LinkedIn:** [View my professional portfolio](YOUR_LINKEDIN_LINK_HERE)
 
-<b>My GitHub Stats</b>
+<br/>
 
-<a href="http://www.github.com/evanmeharo-cloud"><img src="https://github-readme-stats.vercel.app/api?username=evanmeharo-cloud&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="evanmeharo-cloud's GitHub stats" /></a>
-
-<a href="http://www.github.com/evanmeharo-cloud"><img src="https://github-readme-streak-stats.herokuapp.com/?user=evanmeharo-cloud&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/evanmeharo-cloud" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanmeharo-cloud&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/evanmeharo-cloud/Test-Repo" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=evanmeharo-cloud&repo=Test-Repo&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+*Check back soon! As I progress through high school, I will be updating this page with my computer science projects and new debate achievements.*
 
