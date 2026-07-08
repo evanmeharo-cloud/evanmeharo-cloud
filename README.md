@@ -17,7 +17,7 @@ I believe everyone deserves the chance to build confidence in public speaking. T
 Whether you want to discuss debate, schedule a coaching session, or collaborate on a project, feel free to reach out!
 
 * ✉️ **Email:** evanmeharo@gmail.com
-* 💼 **LinkedIn:** [View my professional portfolio]((https://www.linkedin.com/in/evan-meharo-66a236415/))
+* 💼 **LinkedIn:** [View my professional portfolio](https://www.linkedin.com/in/evan-meharo-66a236415/)
 
 <br/>
 
